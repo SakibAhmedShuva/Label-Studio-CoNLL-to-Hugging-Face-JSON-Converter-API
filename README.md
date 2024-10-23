@@ -1,4 +1,4 @@
-# Label Studio CoNLL to HuggingFace JSON Dataset Converter
+# Label Studio CoNLL to HuggingFace JSON Converter API
 
 A Flask-based web service that converts CoNLL-formatted Named Entity Recognition (NER) datasets from Label Studio into the JSON format required by Hugging Face's datasets library. This tool simplifies the process of preparing your NER data for training with transformers.
 
