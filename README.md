@@ -16,7 +16,7 @@ A Flask-based web service that converts CoNLL-formatted Named Entity Recognition
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/SakibAhmedShuva/Label-Studio-CoNLL-to-Hugging-Face-JSON-Dataset.git
+git clone https://github.com/SakibAhmedShuva/Label-Studio-CoNLL-to-Hugging-Face-JSON-Converter-API.git
 cd Label-Studio-CoNLL-to-Hugging-Face-Json-Dataset
 ```
 
